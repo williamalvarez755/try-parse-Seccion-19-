@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\PENSAMIENTO\\Tryparse\\ejercicio 6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{54D10934-C4BF-4EA0-8869-595094B9DDD6}|ejercicio 6\\ejercicio 6.csproj|c:\\users\\usuario\\onedrive\\escritorio\\pensamiento\\tryparse\\ejercicio 6\\ejercicio 6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54D10934-C4BF-4EA0-8869-595094B9DDD6}|ejercicio 6\\ejercicio 6.csproj|solutionrelative:ejercicio 6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\PENSAMIENTO\\Tryparse\\ejercicio 6\\ejercicio 6\\Program.cs",
+              "RelativeDocumentMoniker": "ejercicio 6\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\PENSAMIENTO\\Tryparse\\ejercicio 6\\ejercicio 6\\Program.cs",
+              "RelativeToolTip": "ejercicio 6\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-22T23:25:47.672Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
